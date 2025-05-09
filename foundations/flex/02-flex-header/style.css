@@ -2,20 +2,14 @@
   font-family: monospace;
   background: papayawhip;
   display: flex;
-  padding: 20px;
-  margin: 20px;
+  padding: 8px;
+  justify-content: space-between;
   align-items: center;
-  justify-content: space-evenly;
-  gap: 100px;
+  
+  
   
 
-  .left-links {
-    margin-right: auto;
-  }
 
-    .right-links {
-    margin-left: auto;
-  }
   
 }
 
